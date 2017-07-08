@@ -49,4 +49,4 @@ app端中的MainWindow页面类：
 2：在该类定义一个内部线程数据获取类UI_thread，已每2s为周期的遍历界面的每一个控件的updateValue数据更新函数，当数据更新成功则发送handler消息，通知ui主线程上的handler处理函数，处理控件ui刷新。
 
 
-2017.7.8 test git
+2017.7.8 test git 9999
