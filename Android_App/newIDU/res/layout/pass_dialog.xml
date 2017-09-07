@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvuserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="44dp"
+        android:text="用户名：" />
+
+    <EditText
+        android:id="@+id/etuserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvuserName"
+        android:layout_alignBottom="@+id/tvuserName"
+        android:layout_marginLeft="56dp"
+        android:layout_toRightOf="@+id/tvuserName"
+        android:singleLine="true"
+        android:ems="10"
+        android:maxLength="8" >
+ 
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/tvPWD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvuserName"
+        android:layout_below="@+id/etuserName"
+        android:layout_marginTop="42dp"
+        android:text="密    码：" />
+
+    <EditText
+        android:id="@+id/etPWD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvPWD"
+        android:layout_marginLeft="56dp"
+        android:layout_toRightOf="@+id/tvPWD"
+        android:singleLine="true"
+        android:ems="10"
+        android:maxLength="12"
+        android:inputType="textPassword" />
+
+</RelativeLayout>

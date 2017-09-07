@@ -1,0 +1,65 @@
+/*==========================================================================*
+ *    Copyright(c) 2001-2004, Emerson Network Power Co., Ltd.
+ *                     ALL RIGHTS RESERVED
+ *
+ *  PRODUCT  : ACU(Advanced Controller Unit)
+ *
+ *  FILENAME : commserial.h
+ *  CREATOR  : Mao Fuhua                DATE: 2004-09-16 19:54
+ *  VERSION  : V1.00
+ *  PURPOSE  :
+ *
+ *
+ *  HISTORY  :
+ *
+ *==========================================================================*/
+
+struct SVirtualPortDriver	//	The HAL driver for direct serial port
+{				
+	int				nLastErrorCode;	//NOTE: MUST BE THE FIRST FIELD! 
+							//  the last error code.
+
+//	int				fdvirtual;	//	the handle from open()
+	COMM_TIMEOUTS			toTimeouts;	//	read and write timeout
+//	int				nWorkMode;	//	see enum COMM_WORK_MODE_ENUM in "halcomm.h"
+//	int				nMaxClients;	//	always 1
+//	int				*pCurClients;	//	0 or 1.
+	int				VirtualDevice;	//	default=0/IDU=1/IO=2/BAT=3
+	int				ChannelId;	//	actual channel id,if = -1,then error
+//	int				nVirtualPort;	// the serial port start from 0.
+};				
+typedef struct SVirtualPortDriver		VIRTUAL_PORT_DRV;
+ 
+  
+#define Virtual_CommOpen		HAL_CommOpen
+#define Virtual_CommAccept		HAL_CommAccept
+#define Virtual_CommRead		HAL_CommRead
+#define Virtual_CommWrite		HAL_CommWrite
+#define Virtual_CommControl		HAL_CommControl
+#define Virtual_CommClose		HAL_CommClose
+
+#define IDU_Virtual_Device		1
+#define IO_Virtual_Device		2
+#define BAT_Virtual_Device		3
+#define DOOR_Open_Device		4
+#define NO_Virtual_Device		-1
+
+#define self_test		0
+#define cpu_occupancy		1
+#define flash_occupancy		2
+#define mem_occupancy		3
+#define network_flow		4
+
+#define only_channel		1
+#define channel_and_outdata	2
+#define door_open_or_close	3
+
+#define id_channel_door		6
+
+#define cancel_warning		1
+
+#define _PATH_PACKETRTX  	"/proc/net/dev"
+#define _PATH_MEMINFO		"/proc/meminfo"
+#define _PATH_CPUINFO		"/proc/stat"
+
+static char warning_status[10];	// the static variable to store the info of canceling the warning

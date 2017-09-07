@@ -1,0 +1,1003 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ConfigGraphic>
+  <Element ID="" Type="Form">
+    <Properties>
+      <Property Name="Params" Value="" />
+      <Property Name="Size" Value="1024,768" />
+      <Property Name="BackColor" Value="#FF800040" />
+      <Property Name="BackImage" Value="" />
+      <Property Name="Alpha" Value="1" />
+      <Property Name="RotateAngle" Value="0" />
+      <Property Name="ZIndex" Value="0" />
+    </Properties>
+    <Children>
+      <Element ID="Label1" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="1" />
+          <Property Name="Location" Value="413,1" />
+          <Property Name="Size" Value="281,125" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="FJW-TEST" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="50" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FFFF0000" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="SignalList2" Type="SignalList">
+        <Properties>
+          <Property Name="ZIndex" Value="3" />
+          <Property Name="Location" Value="11,273" />
+          <Property Name="Size" Value="394,462" />
+          <Property Name="Alpha" Value="0.8" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="38" />
+          <Property Name="Expression" Value="Binding{[Equip[Equip:2]]}" />
+          <Property Name="RadioButtonColor" Value="#FFFF7A00" />
+          <Property Name="ForeColor" Value="#FF240000" />
+          <Property Name="BackgroundColor" Value="#D1A26A72" />
+          <Property Name="BorderColor" Value="#00FFFFFF" />
+          <Property Name="OddRowBackground" Value="#7ABB80AA" />
+          <Property Name="EvenRowBackground" Value="#B23D99D7" />
+        </Properties>
+      </Element>
+      <Element ID="Button1" Type="Button">
+        <Properties>
+          <Property Name="ZIndex" Value="19" />
+          <Property Name="Location" Value="841,11" />
+          <Property Name="Size" Value="160,62" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="Expression" Value="" />
+          <Property Name="FontSize" Value="30" />
+          <Property Name="FontColor" Value="#FF000000" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="Content" Value="退出" />
+          <Property Name="ClickEvent" Value="显示桌面" />
+          <Property Name="Url" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="YTCmdExpression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="StepValue" Value="1" />
+          <Property Name="IsAuth" Value="False" />
+        </Properties>
+      </Element>
+      <Element ID="Label9" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="20" />
+          <Property Name="Location" Value="425,538" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号7：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label10" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="21" />
+          <Property Name="Location" Value="425,592" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号8：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label11" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="22" />
+          <Property Name="Location" Value="534,538" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:7]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label12" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="23" />
+          <Property Name="Location" Value="534,592" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:8]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label2" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="24" />
+          <Property Name="Location" Value="425,431" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号5：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label3" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="25" />
+          <Property Name="Location" Value="425,485" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号6：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label4" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="26" />
+          <Property Name="Location" Value="534,431" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:5]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label5" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="27" />
+          <Property Name="Location" Value="534,485" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:6]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label6" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="28" />
+          <Property Name="Location" Value="425,324" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号3：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label7" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="29" />
+          <Property Name="Location" Value="425,378" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号4：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label8" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="30" />
+          <Property Name="Location" Value="534,324" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:3]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label13" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="31" />
+          <Property Name="Location" Value="534,378" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:4]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label14" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="32" />
+          <Property Name="Location" Value="425,218" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号1：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label15" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="33" />
+          <Property Name="Location" Value="425,271" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号2：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label16" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="34" />
+          <Property Name="Location" Value="535,217" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:1]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label17" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="35" />
+          <Property Name="Location" Value="534,271" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:2]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label18" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="36" />
+          <Property Name="Location" Value="428,643" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号9：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label19" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="37" />
+          <Property Name="Location" Value="425,697" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="信号10：" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label20" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="38" />
+          <Property Name="Location" Value="541,642" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:9]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="Label21" Type="Label">
+        <Properties>
+          <Property Name="ZIndex" Value="39" />
+          <Property Name="Location" Value="541,696" />
+          <Property Name="Size" Value="103,41" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="RotateAngle" Value="0" />
+          <Property Name="Content" Value="——" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF0080FF" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Value[Equip:2-Temp:175-Signal:10]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="EventList1" Type="EventList">
+        <Properties>
+          <Property Name="ZIndex" Value="40" />
+          <Property Name="Location" Value="9,63" />
+          <Property Name="Size" Value="414,202" />
+          <Property Name="Alpha" Value="0.8" />
+          <Property Name="Expression" Value="Binding{[Equip[Equip:0]]}" />
+          <Property Name="ShowTotal" Value="-1" />
+          <Property Name="ForeColor" Value="#FFFF689F" />
+          <Property Name="BackgroundColor" Value="#D5CEA377" />
+          <Property Name="BorderColor" Value="#00FFFFFF" />
+          <Property Name="OddRowBackground" Value="#E1937265" />
+          <Property Name="EvenRowBackground" Value="#AC3BAF94" />
+          <Property Name="OrderString" Value="" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="DisplayName" Value="" />
+          <Property Name="ShowHistoryData" Value="False" />
+        </Properties>
+      </Element>
+      <Element ID="YTParameter1" Type="YTParameter">
+        <Properties>
+          <Property Name="ZIndex" Value="41" />
+          <Property Name="Location" Value="623,324" />
+          <Property Name="Size" Value="184,40" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="FontFamily" Value="微软雅黑" />
+          <Property Name="FontSize" Value="12" />
+          <Property Name="FontColor" Value="#FF000000" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="Content" Value="遥控" />
+          <Property Name="CmdExpression" Value="Binding{[Cmd[Equip:2-Temp:175-Command:3-Parameter:1]]}" />
+          <Property Name="IsValueRelateSignal" Value="False" />
+          <Property Name="ButtonWidthRate" Value="0.3" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="MaxValue" Value="100" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="ValueStep" Value="1" />
+        </Properties>
+      </Element>
+      <Element ID="YTParameter2" Type="YTParameter">
+        <Properties>
+          <Property Name="ZIndex" Value="42" />
+          <Property Name="Location" Value="629,693" />
+          <Property Name="Size" Value="184,40" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="FontFamily" Value="微软雅黑" />
+          <Property Name="FontSize" Value="12" />
+          <Property Name="FontColor" Value="#FF000000" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="Content" Value="遥控" />
+          <Property Name="CmdExpression" Value="Binding{[Cmd[Equip:2-Temp:175-Command:10-Parameter:1]]}" />
+          <Property Name="IsValueRelateSignal" Value="False" />
+          <Property Name="ButtonWidthRate" Value="0.3" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="MaxValue" Value="100" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="ValueStep" Value="1" />
+        </Properties>
+      </Element>
+      <Element ID="YKParameter1" Type="YKParameter">
+        <Properties>
+          <Property Name="ZIndex" Value="43" />
+          <Property Name="Location" Value="832,693" />
+          <Property Name="Size" Value="175,40" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="12" />
+          <Property Name="FontColor" Value="#FF000000" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="Content" Value="遥控" />
+          <Property Name="CmdExpression" Value="Binding{[Cmd[Equip:2-Temp:175-Command:10-Parameter:1]]}" />
+          <Property Name="IsValueRelateSignal" Value="False" />
+          <Property Name="ButtonWidthRate" Value="0.3" />
+          <Property Name="IsAuth" Value="False" />
+        </Properties>
+      </Element>
+      <Element ID="Button2" Type="Button">
+        <Properties>
+          <Property Name="ZIndex" Value="44" />
+          <Property Name="Location" Value="876,612" />
+          <Property Name="Size" Value="111,60" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="Expression" Value="" />
+          <Property Name="FontSize" Value="12" />
+          <Property Name="FontColor" Value="#FF000000" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="Content" Value="控制" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="CmdExpression" Value="Binding{[Cmd[Equip:2-Temp:175-Command:10-Parameter:1-Value:6]]}" />
+          <Property Name="YTCmdExpression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="StepValue" Value="1" />
+          <Property Name="IsAuth" Value="False" />
+        </Properties>
+      </Element>
+      <Element ID="SeeImage1" Type="SeeImage">
+        <Properties>
+          <Property Name="ZIndex" Value="47" />
+          <Property Name="Location" Value="745,91" />
+          <Property Name="Size" Value="200,150" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="Stretch" Value="Fill" />
+          <Property Name="ImgSrc" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="ImageExpression" Value="" />
+          <Property Name="VariableHeightWidth" Value="None" />
+          <Property Name="MaxHeightOrWidth" Value="0" />
+          <Property Name="MaxValue" Value="0" />
+          <Property Name="Expression" Value="Binding{[Event[Equip:0]]}" />
+          <Property Name="Url" Value="" />
+          <Property Name="Tooltip" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="passWork" Value="" />
+          <Property Name="user" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="EventConditionStartSetter1" Type="EventConditionStartSetter">
+        <Properties>
+          <Property Name="ZIndex" Value="48" />
+          <Property Name="Location" Value="433,80" />
+          <Property Name="Size" Value="188,55" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="Content" Value="" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="Expression" Value="Binding{[Trigger[Equip:2-Temp:175-Event:3-Condition:1]]}" />
+          <Property Name="RelationLabel" Value="" />
+          <Property Name="IsShowLeft" Value="False" />
+          <Property Name="IsShowText" Value="False" />
+          <Property Name="Stretch" Value="Fill" />
+          <Property Name="TooltipFirst" Value="" />
+          <Property Name="ImgSrcFirst" Value="" />
+          <Property Name="GlyphKindFirst" Value="Plus" />
+          <Property Name="StepValueFirst" Value="1" />
+          <Property Name="TooltipSecond" Value="" />
+          <Property Name="ImgSrcSecond" Value="" />
+          <Property Name="GlyphKindSecond" Value="Minus" />
+          <Property Name="IsAuth" Value="False" />
+        </Properties>
+      </Element>
+      <Element ID="DoubleImageButton1" Type="DoubleImageButton">
+        <Properties>
+          <Property Name="ZIndex" Value="49" />
+          <Property Name="Location" Value="636,253" />
+          <Property Name="Size" Value="128,53" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="Expression" Value="" />
+          <Property Name="MaskExpression" Value="Binding{[Mask[Room:1-Equip:2-Event:3]]}" />
+          <Property Name="RelationLabel" Value="" />
+          <Property Name="IsShowLeft" Value="False" />
+          <Property Name="IsShowText" Value="False" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="Stretch" Value="Fill" />
+          <Property Name="TooltipFirst" Value="告警" />
+          <Property Name="ImgSrcFirst" Value="" />
+          <Property Name="GlyphKindFirst" Value="Plus" />
+          <Property Name="ClickEventFirst" Value="" />
+          <Property Name="UrlFirst" Value="" />
+          <Property Name="CmdExpressionFirst" Value="" />
+          <Property Name="YTCmdExpressionFirst" Value="" />
+          <Property Name="StepValueFirst" Value="1" />
+          <Property Name="TooltipSecond" Value="屏蔽" />
+          <Property Name="ImgSrcSecond" Value="" />
+          <Property Name="GlyphKindSecond" Value="Minus" />
+          <Property Name="ClickEventSecond" Value="" />
+          <Property Name="UrlSecond" Value="" />
+          <Property Name="CmdExpressionSecond" Value="" />
+          <Property Name="YTCmdExpressionSecond" Value="" />
+          <Property Name="StepValueSecond" Value="-1" />
+        </Properties>
+      </Element>
+      <Element ID="tigerLabel1" Type="tigerLabel">
+        <Properties>
+          <Property Name="ZIndex" Value="50" />
+          <Property Name="Location" Value="636,76" />
+          <Property Name="Size" Value="97,64" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="Content" Value="设置内容" />
+          <Property Name="FontFamily" Value="Tahoma" />
+          <Property Name="FontSize" Value="20" />
+          <Property Name="IsBold" Value="False" />
+          <Property Name="FontColor" Value="#FF008000" />
+          <Property Name="HorizontalContentAlignment" Value="Left" />
+          <Property Name="VerticalContentAlignment" Value="Top" />
+          <Property Name="Expression" Value="Binding{[Trigger[Equip:2-Temp:175-Event:3-Condition:1]]}" />
+          <Property Name="DoorExpression" Value="" />
+          <Property Name="Id" Value="-1,0,中心" />
+          <Property Name="DataSource" Value="" />
+          <Property Name="TimeDurationType" Value="ThisMonth" />
+          <Property Name="OpenDoorExpression" Value="" />
+          <Property Name="CmdExpression" Value="" />
+          <Property Name="Url" Value="" />
+          <Property Name="ClickEvent" Value="" />
+          <Property Name="CameraExpression" Value="" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="IsShowPopup" Value="False" />
+          <Property Name="HistoryDisplayName" Value="" />
+          <Property Name="StateExpression" Value="" />
+          <Property Name="ColorExpression" Value="" />
+          <Property Name="EventExpression" Value="" />
+        </Properties>
+      </Element>
+      <Element ID="ButtonUpDown1" Type="ButtonUpDown">
+        <Properties>
+          <Property Name="ZIndex" Value="51" />
+          <Property Name="Location" Value="630,392" />
+          <Property Name="Size" Value="169,53" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="Expression" Value="Binding{[Cmd[Equip:2-Temp:175-Command:3-Parameter:1]]}" />
+          <Property Name="MaskExpression" Value="" />
+          <Property Name="RelationLabel" Value="" />
+          <Property Name="IsShowLeft" Value="False" />
+          <Property Name="IsShowText" Value="False" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="Stretch" Value="Fill" />
+          <Property Name="TooltipFirst" Value="告警" />
+          <Property Name="ImgSrcFirst" Value="" />
+          <Property Name="GlyphKindFirst" Value="Plus" />
+          <Property Name="ClickEventFirst" Value="" />
+          <Property Name="UrlFirst" Value="" />
+          <Property Name="CmdExpressionFirst" Value="" />
+          <Property Name="YTCmdExpressionFirst" Value="" />
+          <Property Name="StepValueFirst" Value="1" />
+          <Property Name="TooltipSecond" Value="屏蔽" />
+          <Property Name="ImgSrcSecond" Value="" />
+          <Property Name="GlyphKindSecond" Value="Minus" />
+          <Property Name="ClickEventSecond" Value="" />
+          <Property Name="UrlSecond" Value="" />
+          <Property Name="CmdExpressionSecond" Value="" />
+          <Property Name="YTCmdExpressionSecond" Value="" />
+          <Property Name="StepValueSecond" Value="-1" />
+        </Properties>
+      </Element>
+      <Element ID="ButtonUpDown2" Type="ButtonUpDown">
+        <Properties>
+          <Property Name="ZIndex" Value="52" />
+          <Property Name="Location" Value="434,149" />
+          <Property Name="Size" Value="185,53" />
+          <Property Name="Alpha" Value="1" />
+          <Property Name="BackgroundColor" Value="#FFFCFCFC" />
+          <Property Name="Expression" Value="Binding{[Trigger[Equip:2-Temp:175-Event:3-Condition:1]]}" />
+          <Property Name="MaskExpression" Value="" />
+          <Property Name="RelationLabel" Value="" />
+          <Property Name="IsShowLeft" Value="False" />
+          <Property Name="IsShowText" Value="False" />
+          <Property Name="IsAuth" Value="False" />
+          <Property Name="Stretch" Value="Fill" />
+          <Property Name="TooltipFirst" Value="告警" />
+          <Property Name="ImgSrcFirst" Value="" />
+          <Property Name="GlyphKindFirst" Value="Plus" />
+          <Property Name="ClickEventFirst" Value="" />
+          <Property Name="UrlFirst" Value="" />
+          <Property Name="CmdExpressionFirst" Value="" />
+          <Property Name="YTCmdExpressionFirst" Value="" />
+          <Property Name="StepValueFirst" Value="1" />
+          <Property Name="TooltipSecond" Value="屏蔽" />
+          <Property Name="ImgSrcSecond" Value="" />
+          <Property Name="GlyphKindSecond" Value="Minus" />
+          <Property Name="ClickEventSecond" Value="" />
+          <Property Name="UrlSecond" Value="" />
+          <Property Name="CmdExpressionSecond" Value="" />
+          <Property Name="YTCmdExpressionSecond" Value="" />
+          <Property Name="StepValueSecond" Value="-1" />
+        </Properties>
+      </Element>
+    </Children>
+  </Element>
+</ConfigGraphic>

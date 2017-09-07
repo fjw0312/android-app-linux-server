@@ -1,0 +1,14 @@
+/*********���ļ�ΪIDU�������ļ�����ɾ��*********/
+
+#�õ�����ò���#
+Formula=3-39&4-1
+
+#�ʼ��澯���ò���#
+runFlag=false
+ServerHost=mail.kstar.com.cn
+ServerPort=25
+UserName=fang
+FromAddress=fangjw@kstar.com.cn
+Password=kstar-6
+ToAddress=fjw0312@163.com
+Subject=IDU�澯

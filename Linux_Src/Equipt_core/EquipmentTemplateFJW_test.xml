@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipTemplateInfo>
+  <EquipTemplate EquipTemplateId="175" EquipTemplateName="FJW_test" EquipTemplateType="10000" EquipBaseTemplateId="1000" ParentTemplateId="-1" Property="0" LibName="FJW_test" TemplateCode="" TemplateLog="" Description="" LastUpdateTime="20160217063816">
+    <Signals>
+      <EquipSignal SignalId="1" SignalName="信号1" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="0" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="2" SignalName="信号2" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="3" SignalName="信号3" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="2" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="4" SignalName="信号4" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="3" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="5" SignalName="信号5" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="4" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="6" SignalName="信号6" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="5" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="7" SignalName="信号7" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="6" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="8" SignalName="信号8" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="7" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="9" SignalName="信号9" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="8" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="数字量0" />
+          <SignalMeaning StateValue="1" Meaning="数字量1" />
+          <SignalMeaning StateValue="2" Meaning="数字量2" />
+          <SignalMeaning StateValue="3" Meaning="数字量3" />
+          <SignalMeaning StateValue="4" Meaning="数字量4" />
+          <SignalMeaning StateValue="5" Meaning="数字量5" />
+          <SignalMeaning StateValue="6" Meaning="数字量6" />
+          <SignalMeaning StateValue="7" Meaning="数字量7" />
+          <SignalMeaning StateValue="8" Meaning="数字量8" />
+          <SignalMeaning StateValue="9" Meaning="数字量9" />
+          <SignalMeaning StateValue="10" Meaning="数字量10" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="10" SignalName="信号10" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="9" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="2880" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="数字量0" />
+          <SignalMeaning StateValue="1" Meaning="数字量1" />
+          <SignalMeaning StateValue="2" Meaning="数字量2" />
+          <SignalMeaning StateValue="3" Meaning="数字量3" />
+          <SignalMeaning StateValue="4" Meaning="数字量4" />
+          <SignalMeaning StateValue="5" Meaning="数字量5" />
+          <SignalMeaning StateValue="6" Meaning="数字量6" />
+          <SignalMeaning StateValue="7" Meaning="数字量7" />
+          <SignalMeaning StateValue="8" Meaning="数字量8" />
+          <SignalMeaning StateValue="9" Meaning="数字量9" />
+          <SignalMeaning StateValue="10" Meaning="数字量10" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="10001" SignalName="设备通讯状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="-1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="1" Meaning="通讯正常" />
+          <SignalMeaning StateValue="0" Meaning="通讯中断" />
+        </Meanings>
+      </EquipSignal>
+    </Signals>
+    <Events>
+      <EquipEvent EventId="1" EventName="信号1==4告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,1]" SuppressExpression="" Reversal="" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="4" StartDelay="" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="2" EventName="信号2==5告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,2]" SuppressExpression="" Reversal="" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="5" StartDelay="" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="3" EventName="信号3==13告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,3]" SuppressExpression="" Reversal="" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="13" StartDelay="" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="10001" EventName="设备通讯状态" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10001]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="通讯中断" EventSeverity="3" StartOperation="=" StartCompareValue="0" StartDelay="30" EndOperation="" EndCompareValue="" EndDelay="5" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+    </Events>
+    <Commands>
+      <EquipCommand CommandId="3" CommandName="设置信号3" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="13" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号3" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="4" CommandName="设置信号4" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="14" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号4" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="5" CommandName="设置信号5" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="15" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号5" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="6" CommandName="设置信号6" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="16" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号6" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="7" CommandName="设置信号7" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="17" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号7" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="8" CommandName="设置信号8" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="18" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号8" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+	  <EquipCommand CommandId="9" CommandName="设置信号9" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="19" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号9" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="10" CommandName="设置信号10" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="20" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置信号10" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" >
+		  <CommandMeaning ParameterValue="0" Meaning="设置数字量为0" />
+          <CommandMeaning ParameterValue="1" Meaning="设置数字量为1" />
+          <CommandMeaning ParameterValue="2" Meaning="设置数字量为2" />
+          <CommandMeaning ParameterValue="3" Meaning="设置数字量为3" />
+          <CommandMeaning ParameterValue="4" Meaning="设置数字量为4" />
+          <CommandMeaning ParameterValue="5" Meaning="设置数字量为5" />
+          <CommandMeaning ParameterValue="6" Meaning="设置数字量为6" />
+          <CommandMeaning ParameterValue="7" Meaning="设置数字量为7" />
+          <CommandMeaning ParameterValue="8" Meaning="设置数字量为8" />
+		</CommandParameter>
+	  </EquipCommand>
+    </Commands>
+  </EquipTemplate>
+</EquipTemplateInfo>
