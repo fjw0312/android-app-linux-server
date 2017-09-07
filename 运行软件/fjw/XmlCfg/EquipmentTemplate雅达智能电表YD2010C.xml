@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipTemplateInfo>
+  <EquipTemplate EquipTemplateId="174" EquipTemplateName="雅达智能电表YD2010C" EquipTemplateType="10000" EquipBaseTemplateId="-1" ParentTemplateId="-1" Property="0" LibName="雅达智能电表YD2010C" TemplateCode="" TemplateLog="" Description="" LastUpdateTime="20161104043444">
+    <Signals>
+      <EquipSignal SignalId="1" SignalName="通讯地" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="0" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="2" SignalName="测量系统接线方式：0~5 0：4NBL1" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="" />
+          <SignalMeaning StateValue="1" Meaning="" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="3" SignalName="校验位：0：无1：奇2：偶" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="3" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="4" SignalName="波特率：0：1200 1：2400 2：480" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="4" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="5" SignalName="电压范围 0：150 1：600" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="5" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="" />
+          <SignalMeaning StateValue="1" Meaning="" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="6" SignalName="PT" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="7" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="7" SignalName="CT" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="9" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="8" SignalName="相电压1 " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="10" Expression="([-1,8]&gt;12)*([-1,8])" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="9" SignalName="线电压U12" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="11" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="10" SignalName="第1相电流 " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="12" Expression="" DataType="0" ShowPrecision="0.00" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="11" SignalName="1相有功功率  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="14" Expression="[-1,11]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="12" SignalName="1相功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="15" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="13" SignalName="1相无功功率  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="16" Expression="[-1,13]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="14" SignalName="1相视在功率  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="17" Expression="[-1,14]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="15" SignalName="相电压2      " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="18" Expression="([-1,15]&gt;12)*([-1,15])" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="16" SignalName="线电压U23    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="19" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="17" SignalName="第2相电流    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="20" Expression="" DataType="0" ShowPrecision="0.00" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="18" SignalName="2相有功功率  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="22" Expression="[-1,18]/1000" DataType="0" ShowPrecision="0.0" Unit="KVA" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="19" SignalName="2相功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="23" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="20" SignalName="2相无功功率  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="24" Expression="[-1,20]/1000" DataType="0" ShowPrecision="0.0" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="21" SignalName="2相视在功率  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="25" Expression="[-1,21]/1000" DataType="0" ShowPrecision="0.0" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="22" SignalName="相电压3       " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="26" Expression="([-1,22]&gt;12)*([-1,22])" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="23" SignalName="线电压U31     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="27" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="24" SignalName="第3相电流     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="28" Expression="" DataType="0" ShowPrecision="0.00" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="25" SignalName="零地电压      " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="29" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="26" SignalName="3相有功功率   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="30" Expression="[-1,26]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="27" SignalName="3相功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="31" Expression="" DataType="0" ShowPrecision="0.00" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="28" SignalName="3相无功功率   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="32" Expression="[-1,28]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="29" SignalName="3相视在功率   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="33" Expression="[-1,29]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="30" SignalName="三相平均相电压 " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="34" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="31" SignalName="三相平均线电压 " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="35" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="32" SignalName="三相平均相电流 " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="36" Expression="" DataType="0" ShowPrecision="0.0" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="33" SignalName="频率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="37" Expression="" DataType="0" ShowPrecision="0.0" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="34" SignalName="三相有功功率   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="38" Expression="[-1,34]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="35" SignalName="三相总功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="39" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="36" SignalName="三相无功功率   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="40" Expression="[-1,36]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="37" SignalName="三相视在功率   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="41" Expression="[-1,37]/1000" DataType="0" ShowPrecision="0.00" Unit="KW" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="38" SignalName="零序电流       " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="42" Expression="" DataType="0" ShowPrecision="0.0" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="39" SignalName="正向有功电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="43" Expression="[-1,39]/1000" DataType="0" ShowPrecision="0.00" Unit="KWh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="40" SignalName="负向有功电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="45" Expression="[-1,40]/1000" DataType="0" ShowPrecision="0.00" Unit="KWh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="41" SignalName="正向无功电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="47" Expression="[-1,41]/1000" DataType="0" ShowPrecision="0.00" Unit="KWh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="42" SignalName="负向无功电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="49" Expression="[-1,42]/1000" DataType="0" ShowPrecision="0.00" Unit="KWh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="10001" SignalName="设备通讯状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="-1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="1" Meaning="通讯正常" />
+          <SignalMeaning StateValue="0" Meaning="通讯中断" />
+        </Meanings>
+      </EquipSignal>
+    </Signals>
+    <Events>
+      <EquipEvent EventId="2" EventName="测量系统接线方式：0~5 0：4NBL1" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,2]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="3" EventName="校验位：0：无1：奇2：偶" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,3]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="4" EventName="波特率：0：1200 1：2400 2：480" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,4]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions />
+      </EquipEvent>
+      <EquipEvent EventId="5" EventName="电压范围 0：150 1：600" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,5]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions />
+      </EquipEvent>
+      <EquipEvent EventId="6" EventName="A相电压告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,8]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="A相过压告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="253" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="7" EventName="A相电压告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,8]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="A相欠压告警" EventSeverity="2" StartOperation="&lt;" StartCompareValue="187" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="12" EventName="A相电流告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="A相过流告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="100" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="13" EventName="B相电流告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,17]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="B相过流告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="100" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="14" EventName="C相电流告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,24]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="C相过流压告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="100" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="15" EventName="A相缺相告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,8]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="A相缺相告警" EventSeverity="2" StartOperation="&lt;" StartCompareValue="110" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="16" EventName="B相缺相告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,15]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="B相缺相告警" EventSeverity="2" StartOperation="&lt;" StartCompareValue="110" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="17" EventName="C相缺相告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,22]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="C相缺相告警" EventSeverity="2" StartOperation="&lt;" StartCompareValue="110" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="18" EventName="A相有功功率告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,11]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="A相有功功率过高告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="100000" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="19" EventName="B相有功功率告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,18]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="B相有功功率过高告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="100000" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="20" EventName="C相有功功率告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,26]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="C相有功功率过高告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="100000" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="21" EventName="频率告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,33]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="频率超限告警" EventSeverity="2" StartOperation="&gt;" StartCompareValue="55" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+          <EventCondition ConditionId="2" Meaning="频率低限告警" EventSeverity="2" StartOperation="&lt;" StartCompareValue="45" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="10001" EventName="设备通讯状态" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10001]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="通讯中断" EventSeverity="3" StartOperation="=" StartCompareValue="0" StartDelay="300" EndOperation="" EndCompareValue="" EndDelay="5" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+    </Events>
+    <Commands>
+      <EquipCommand CommandId="1" CommandName="CT" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="17" Priority="0" Timeout="0" Retry="2" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="CT遥调" UIControlType="0" DataType="1" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="2" CommandName="PT" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="16" Priority="0" Timeout="0" Retry="2" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="PT遥调" UIControlType="0" DataType="1" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="3" CommandName="电能清零" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="18" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="电能清零" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="0" Meaning="保留" />
+          <CommandMeaning ParameterValue="1" Meaning="清零" />
+        </CommandParameter>
+      </EquipCommand>
+      <EquipCommand CommandId="4" CommandName="电能清零使能" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="21" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="电能清零使能" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="0" Meaning="使能0" />
+          <CommandMeaning ParameterValue="1" Meaning="使能1" />
+        </CommandParameter>
+      </EquipCommand>
+      <EquipCommand CommandId="5" CommandName="test-控制总用电量" CommandBaseId="" CommandType="0" ControlType="0" RelatedSignalId="" CommandToken="100" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="设置总用电量" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+    </Commands>
+  </EquipTemplate>
+</EquipTemplateInfo>

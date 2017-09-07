@@ -1,0 +1,1067 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipTemplateInfo>
+  <EquipTemplate EquipTemplateId="176" EquipTemplateName="列间FocusAir系列" EquipTemplateType="10000" EquipBaseTemplateId="-1" ParentTemplateId="-1" Property="0" LibName="列间FocusAir系列" TemplateCode="" TemplateLog="" Description="" LastUpdateTime="20160229021851">
+    <Signals>
+      <EquipSignal SignalId="1" SignalName="送风温度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="0" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="2" SignalName="回风温度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="1" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="3" SignalName="回风湿度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="2" Expression="" DataType="0" ShowPrecision="0.0" Unit="%" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="4" SignalName="进风温度1" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="3" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="5" SignalName="进风温度2" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="4" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="6" SignalName="进风温度3" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="5" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="7" SignalName="进风温度4" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="6" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="8" SignalName="进风温度5" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="7" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="9" SignalName="进风温度6" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="8" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="10" SignalName="水流量" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="9" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="11" SignalName="吸气温度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="10" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="12" SignalName="吸气压力" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="11" Expression="" DataType="0" ShowPrecision="0.0" Unit="Pa" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="13" SignalName="排气压力" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="12" Expression="" DataType="0" ShowPrecision="0.0" Unit="Pa" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="14" SignalName="排气温度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="13" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="15" SignalName="吸气过热度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="14" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="16" SignalName="模拟量输出1(EC风机信号0-10V)" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="15" Expression="" DataType="0" ShowPrecision="0.0" Unit="V" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="17" SignalName="模拟量输出2(无)" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="16" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="18" SignalName="模拟量输出3(加湿器信号)" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="17" Expression="" DataType="0" ShowPrecision="0.0" Unit="%" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="19" SignalName="蒸发温度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="18" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="20" SignalName="压缩机转速" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="19" Expression="" DataType="0" ShowPrecision="0.0" Unit="?" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="21" SignalName="进风设点" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="20" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="22" SignalName="送风设点" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="21" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="23" SignalName="回风设点" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="22" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="24" SignalName="湿度设点" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="23" Expression="" DataType="0" ShowPrecision="0.0" Unit="%RH" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="25" SignalName="除湿偏差" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="24" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="26" SignalName="加湿偏差" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="25" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="27" SignalName="温度控制范围" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="26" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="28" SignalName="机组状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="27" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="1" Meaning="报警关闭" />
+          <SignalMeaning StateValue="2" Meaning="监控关闭" />
+          <SignalMeaning StateValue="3" Meaning="时区关闭" />
+          <SignalMeaning StateValue="4" Meaning="远程关闭" />
+          <SignalMeaning StateValue="5" Meaning="机组关闭" />
+          <SignalMeaning StateValue="6" Meaning="手动状态" />
+          <SignalMeaning StateValue="7" Meaning="待机状态" />
+          <SignalMeaning StateValue="8" Meaning="远程开机" />
+          <SignalMeaning StateValue="0" Meaning="机组开启" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="29" SignalName="压缩机需求" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="28" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="30" SignalName="冷水阀需求" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="29" Expression="" DataType="0" ShowPrecision="0.0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="31" SignalName="当前温度设点" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="30" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="32" SignalName="当前湿度设点" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="31" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings />
+      </EquipSignal>
+      <EquipSignal SignalId="33" SignalName="运行模式" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="32" Expression="([-1,33]==[-1,22])*1+([-1,33]==[-1,23])*2" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="回风" />
+          <SignalMeaning StateValue="1" Meaning="送风" />
+          <SignalMeaning StateValue="2" Meaning="回风" />
+          <SignalMeaning StateValue="3" Meaning="送回风" />
+          <SignalMeaning StateValue="4" Meaning=" " />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="34" SignalName="机组配置" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="33" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="ED机组" />
+          <SignalMeaning StateValue="1" Meaning="CW机组" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="35" SignalName="使能BLDC" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="34" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="禁止" />
+          <SignalMeaning StateValue="1" Meaning="允许" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="36" SignalName="使能EVD" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="35" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="禁止" />
+          <SignalMeaning StateValue="1" Meaning="允许" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="37" SignalName="使能power+" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="36" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="禁止" />
+          <SignalMeaning StateValue="1" Meaning="允许" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="38" SignalName="启用加湿器" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="37" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="禁止" />
+          <SignalMeaning StateValue="1" Meaning="允许" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="39" SignalName="数字量输入5(排水开关信号)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="42" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="闭合" />
+          <SignalMeaning StateValue="1" Meaning="断开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="40" SignalName="数字量输入10(远程开关机)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="47" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="闭合" />
+          <SignalMeaning StateValue="1" Meaning="断开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="41" SignalName="数字量输出1(风机1)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="56" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="42" SignalName="数字量输出2(风机2)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="57" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="43" SignalName="数字量输出3(风机3)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="58" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="44" SignalName="数字量输出4(风机4)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="59" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="45" SignalName="数字量输出5(风机5)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="60" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="46" SignalName="数字量输出6(风机6)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="61" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="47" SignalName="数字量输出7(电加热)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="62" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="48" SignalName="数字量输出8(无)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="63" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="49" SignalName="数字量输出9(冷凝水泵)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="64" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="50" SignalName="数字量输出10(定频压缩机输出/低温电磁阀)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="65" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="51" SignalName="数字量输出11(旁通电磁阀1)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="66" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="52" SignalName="数字量输出12(旁通电磁阀2)" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="67" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="53" SignalName="低压报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="69" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="54" SignalName="风机严重报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="71" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="55" SignalName="电加热过载" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="72" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="56" SignalName="滤网堵塞" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="74" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="57" SignalName="温度过高报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="75" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="58" SignalName="温度过低报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="76" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="59" SignalName="湿度过高报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="77" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="60" SignalName="湿度过低报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="78" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="61" SignalName="压缩机超时运行" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="79" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="62" SignalName="回风温度探头错误或未连接" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="80" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="63" SignalName="送风温度探头错误或未连接" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="81" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="64" SignalName="室内湿度探头错误或者未连接" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="82" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="65" SignalName="压力探头错误或未连接" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="83" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="66" SignalName="时钟报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="84" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="67" SignalName="高压报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="85" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="68" SignalName="漏水报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="86" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="69" SignalName="水流报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="87" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="70" SignalName="网络断线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="88" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="71" SignalName="冷冻水断流报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="89" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="72" SignalName="风机1故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="90" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="73" SignalName="风机2故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="91" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="74" SignalName="风机3故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="92" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="75" SignalName="加湿器故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="93" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="76" SignalName="回风温度探头故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="94" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="77" SignalName="机柜进风温度探头1故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="95" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="78" SignalName="机柜进风温度探头2故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="96" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="79" SignalName="机柜进风温度探头3故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="97" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="80" SignalName="机柜进风温度探头4故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="98" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="81" SignalName="机柜进风温度探头5故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="99" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="82" SignalName="机柜进风温度探头6故障或离线" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="100" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="83" SignalName="烟/火报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="101" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="84" SignalName="压差开关报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="102" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="85" SignalName="冷凝水盘溢水报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="103" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="86" SignalName="高压报警（高压开关）" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="104" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="87" SignalName="排气温度报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="105" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="88" SignalName="冷凝器水流报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="106" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="89" SignalName="冷凝器故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="107" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="90" SignalName="风机4故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="108" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="91" SignalName="风机5故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="109" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="92" SignalName="风机6故障报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="110" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="93" SignalName="压缩机启动失败" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="111" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="94" SignalName="压缩机运行区域报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="112" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="95" SignalName="高排气温度报警（BLDC）" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="113" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="96" SignalName="压差过低报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="114" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="97" SignalName="变频模块不匹配" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="115" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="98" SignalName="变频器离线报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="116" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="99" SignalName="变频器综合报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="117" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="100" SignalName="吸气压力探头S1故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="118" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="101" SignalName="吸气温度探头S2故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="119" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="102" SignalName="排气压力探头S3故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="120" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="103" SignalName="排气温度探头S4故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="121" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="104" SignalName="低过热度报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="122" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="105" SignalName="低蒸发温度报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="123" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="106" SignalName="高蒸发温度报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="124" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="107" SignalName="高冷凝温度报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="125" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="108" SignalName="驱动器内存故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="126" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="109" SignalName="电子膨胀阀电机故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="127" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="110" SignalName="驱动器离线报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="128" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="111" SignalName="低吸气温度报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="129" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="112" SignalName="EEV驱动电池故障" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="130" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="113" SignalName="低吸气压力报警" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="131" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="114" SignalName="压缩机请求维护" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="132" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="115" SignalName="电加热请求维护" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="133" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="116" SignalName="送风机请求维护" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="134" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="117" SignalName="加湿器请求维护" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="135" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无告警" />
+          <SignalMeaning StateValue="1" Meaning="有告警" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="118" SignalName="故障复位" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="136" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="不复位" />
+          <SignalMeaning StateValue="1" Meaning="复位" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="119" SignalName="开关机" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="137" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="120" SignalName="制冷状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="138" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="121" SignalName="加湿状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="139" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="122" SignalName="制热状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="140" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="123" SignalName="除湿状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="141" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="1" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="关" />
+          <SignalMeaning StateValue="1" Meaning="开" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="124" SignalName="风扇状态" SignalBaseId="-1" SignalType="1" SignalProperty="" ChannelNo="-2" Expression="([-1,41]&gt;0)+([-1,42]&gt;0)+([-1,43]&gt;0)" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="0%" />
+          <SignalMeaning StateValue="1" Meaning="33%" />
+          <SignalMeaning StateValue="2" Meaning="66%" />
+          <SignalMeaning StateValue="3" Meaning="100%" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="125" SignalName="运行模式2" SignalBaseId="-1" SignalType="1" SignalProperty="" ChannelNo="-3" Expression="[-1,120]+[-1,123]*2" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="无" />
+          <SignalMeaning StateValue="1" Meaning="制冷" />
+          <SignalMeaning StateValue="2" Meaning="除湿" />
+          <SignalMeaning StateValue="3" Meaning="制冷、除湿" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="10001" SignalName="设备通讯状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="-1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="1" Meaning="通讯正常" />
+          <SignalMeaning StateValue="0" Meaning="通讯中断" />
+        </Meanings>
+      </EquipSignal>
+    </Signals>
+    <Events>
+      <EquipEvent EventId="53" EventName="低压报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,53]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="54" EventName="风机严重报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,54]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="55" EventName="电加热过载" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,55]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="56" EventName="滤网堵塞" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,56]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="57" EventName="温度过高报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,57]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="3" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="58" EventName="温度过低报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,58]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="59" EventName="湿度过高报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,59]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="3" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="60" EventName="湿度过低报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,60]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="61" EventName="压缩机超时运行" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,61]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="62" EventName="回风温度探头错误或未连接" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,62]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="63" EventName="送风温度探头错误或未连接" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,63]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="64" EventName="室内湿度探头错误或者未连接" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,64]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="65" EventName="压力探头错误或未连接" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,65]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="66" EventName="时钟报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,66]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="67" EventName="高压报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,67]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="68" EventName="漏水报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,68]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="69" EventName="水流报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,69]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="70" EventName="网络断线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,70]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="71" EventName="冷冻水断流报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,71]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="72" EventName="风机1故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,72]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="73" EventName="风机2故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,73]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="74" EventName="风机3故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,74]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="75" EventName="加湿器故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,75]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="76" EventName="回风温度探头故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,76]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="77" EventName="机柜进风温度探头1故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,77]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="78" EventName="机柜进风温度探头2故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,78]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="79" EventName="机柜进风温度探头3故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,79]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="80" EventName="机柜进风温度探头4故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,80]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="81" EventName="机柜进风温度探头5故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,81]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="82" EventName="机柜进风温度探头6故障或离线" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,82]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="83" EventName="烟/火报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,83]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="3" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="84" EventName="压差开关报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,84]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="85" EventName="冷凝水盘溢水报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,85]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="86" EventName="高压报警（高压开关）" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,86]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="87" EventName="排气温度报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,87]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="88" EventName="冷凝器水流报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,88]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="89" EventName="冷凝器故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,89]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="90" EventName="风机4故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,90]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="91" EventName="风机5故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,91]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="92" EventName="风机6故障报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,92]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="93" EventName="压缩机启动失败" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,93]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="94" EventName="压缩机运行区域报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,94]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="95" EventName="高排气温度报警（BLDC）" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,95]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="96" EventName="压差过低报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,96]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="97" EventName="变频模块不匹配" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,97]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="98" EventName="变频器离线报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,98]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="99" EventName="变频器综合报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,99]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="100" EventName="吸气压力探头S1故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,100]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="101" EventName="吸气温度探头S2故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,101]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="102" EventName="排气压力探头S3故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,102]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="103" EventName="排气温度探头S4故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,103]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="104" EventName="低过热度报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,104]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="105" EventName="低蒸发温度报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,105]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="106" EventName="高蒸发温度报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,106]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="107" EventName="高冷凝温度报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,107]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="108" EventName="驱动器内存故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,108]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="109" EventName="电子膨胀阀电机故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,109]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="110" EventName="驱动器离线报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,110]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="111" EventName="低吸气温度报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,111]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="112" EventName="EEV驱动电池故障" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,112]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="113" EventName="低吸气压力报警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,113]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="114" EventName="压缩机请求维护" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,114]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="115" EventName="电加热请求维护" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,115]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="116" EventName="送风机请求维护" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,116]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="117" EventName="加湿器请求维护" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,117]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="0" Meaning="有告警" EventSeverity="1" StartOperation="=" StartCompareValue="1" StartDelay="0" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="10001" EventName="设备通讯状态" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10001]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="通讯中断" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="5" EndOperation="" EndCompareValue="" EndDelay="5" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+    </Events>
+    <Commands>
+      <EquipCommand CommandId="1" CommandName="故障复位" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="10" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="故障复位" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="1" Meaning="复位" />
+          <CommandMeaning ParameterValue="0" Meaning="不复位" />
+        </CommandParameter>
+      </EquipCommand>
+      <EquipCommand CommandId="2" CommandName="开关机" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="11" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="开关机" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="1" Meaning="开" />
+          <CommandMeaning ParameterValue="0" Meaning="关" />
+        </CommandParameter>
+      </EquipCommand>
+      <EquipCommand CommandId="3" CommandName="进风设点" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="12" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="进风设点" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="4" CommandName="送风设点" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="13" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="送风设点" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="5" CommandName="回风设点" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="14" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="回风设点" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="6" CommandName="湿度设点" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="15" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="湿度设点" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="7" CommandName="除湿偏差" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="16" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="除湿偏差" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="8" CommandName="加湿偏差" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="17" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="加湿偏差" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+      </EquipCommand>
+      <EquipCommand CommandId="9" CommandName="机组状态" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="18" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="机组状态" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="0" Meaning="机组开启" />
+          <CommandMeaning ParameterValue="1" Meaning="报警关闭" />
+          <CommandMeaning ParameterValue="2" Meaning="监控关闭" />
+          <CommandMeaning ParameterValue="3" Meaning="时区关闭" />
+          <CommandMeaning ParameterValue="4" Meaning="远程关闭" />
+          <CommandMeaning ParameterValue="5" Meaning="机组关闭" />
+          <CommandMeaning ParameterValue="6" Meaning="手动状态" />
+          <CommandMeaning ParameterValue="7" Meaning="待机状态" />
+          <CommandMeaning ParameterValue="8" Meaning="远程开机" />
+        </CommandParameter>
+      </EquipCommand>
+      <EquipCommand CommandId="10" CommandName="运行模式" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="19" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="运行模式" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="1" Meaning="送风" />
+          <CommandMeaning ParameterValue="0" Meaning="回风" />
+        </CommandParameter>
+      </EquipCommand>
+    </Commands>
+  </EquipTemplate>
+</EquipTemplateInfo>

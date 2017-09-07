@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EquipTemplateInfo>
+    <EquipTemplate EquipTemplateId="178" EquipTemplateName="FS102HT" EquipTemplateType="10000" EquipBaseTemplateId="-1" ParentTemplateId="-1" Property="0" LibName="FS102HT" TemplateCode="" TemplateLog="" Description="" LastUpdateTime="20161104034756">
+        <Signals>
+            <EquipSignal SignalId="1" SignalName="温度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="1" Expression="" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="2" SignalName="湿度" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="2" Expression="" DataType="0" ShowPrecision="0.0" Unit="%Rh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="3" SignalName="温度2" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="-2" Expression="[-1,1]" DataType="0" ShowPrecision="0.0" Unit="℃" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="4" SignalName="湿度2" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="-3" Expression="[-1,2]" DataType="0" ShowPrecision="0.0" Unit="%RH" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="10001" SignalName="设备通讯状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="-1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings>
+                    <SignalMeaning StateValue="1" Meaning="通讯正常" />
+                    <SignalMeaning StateValue="0" Meaning="通讯中断" />
+                </Meanings>
+            </EquipSignal>
+        </Signals>
+        <Events>
+            <EquipEvent EventId="3" EventName="高温告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,1]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="3" StartOperation="&gt;" StartCompareValue="30" StartDelay="2" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="4" EventName="低温告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,1]" SuppressExpression="" Reversal="" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="3" StartOperation="&lt;" StartCompareValue="22" StartDelay="2" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="5" EventName="高湿告警" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,2]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="3" StartOperation="&gt;" StartCompareValue="89" StartDelay="2" EndOperation="" EndCompareValue="" EndDelay="0" Frequency="0" FreqThreshold="0" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="6" EventName="紧急通风告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,1]" SuppressExpression="" Reversal="" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="3" StartOperation="&gt;" StartCompareValue="32" StartDelay="2" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="10001" EventName="设备通讯状态" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10001]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="通讯中断" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="5" Frequency="0" FreqThreshold="0" />
+                </Conditions>
+            </EquipEvent>
+        </Events>
+        <Commands>
+            <EquipCommand CommandId="1" CommandName="温度" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="1" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+                <CommandParameter ParameterId="1" ParameterName="高温" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+                <CommandParameter ParameterId="2" ParameterName="低温" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+            </EquipCommand>
+            <EquipCommand CommandId="2" CommandName="湿度" CommandBaseId="-1" CommandType="0" ControlType="0" RelatedSignalId="-1" CommandToken="2" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+                <CommandParameter ParameterId="1" ParameterName="高湿" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+            </EquipCommand>
+        </Commands>
+    </EquipTemplate>
+</EquipTemplateInfo>

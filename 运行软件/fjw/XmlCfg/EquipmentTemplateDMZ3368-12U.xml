@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EquipTemplateInfo>
+    <EquipTemplate EquipTemplateId="175" EquipTemplateName="DMZ3368-12U" EquipTemplateType="10000" EquipBaseTemplateId="-1" ParentTemplateId="-1" Property="0" LibName="DMZ3368-12U" TemplateCode="" TemplateLog="" Description="" LastUpdateTime="20161104122316">
+        <Signals>
+            <EquipSignal SignalId="1" SignalName="1路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="0" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="2" SignalName="2路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="1" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="3" SignalName="3路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="2" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="4" SignalName="4路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="3" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="5" SignalName="5路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="4" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="6" SignalName="6路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="5" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="7" SignalName="7路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="6" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="8" SignalName="8路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="7" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="9" SignalName="9路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="8" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="10" SignalName="10路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="9" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="11" SignalName="11路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="10" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="12" SignalName="12路当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="11" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="13" SignalName="1路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="12" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="14" SignalName="2路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="13" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="15" SignalName="3路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="14" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="16" SignalName="4路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="15" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="17" SignalName="5路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="16" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="18" SignalName="6路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="17" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="19" SignalName="7路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="18" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="20" SignalName="8路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="19" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="21" SignalName="9路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="20" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="22" SignalName="10路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="21" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="23" SignalName="11路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="22" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="24" SignalName="12路当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="23" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="25" SignalName="1路当前反向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="24" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="26" SignalName="2路当前反向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="25" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="27" SignalName="3路当前反向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="26" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="28" SignalName="4路当前反向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="27" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="29" SignalName="5路当前反向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="28" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="30" SignalName="6路当前反向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="29" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="31" SignalName="7路当前反向有功电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="30" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="32" SignalName="8路当前反向有功电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="31" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="33" SignalName="9路当前反向有功电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="32" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="34" SignalName="10路当前反向有功电能  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="33" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="35" SignalName="11路当前反向有功电能  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="34" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="36" SignalName="12路当前反向有功电能  " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="35" Expression="" DataType="0" ShowPrecision="0.000" Unit="kwh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="37" SignalName="1路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="36" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="38" SignalName="2路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="37" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="39" SignalName="3路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="38" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="40" SignalName="4路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="39" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="41" SignalName="5路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="40" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="42" SignalName="6路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="41" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="43" SignalName="7路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="42" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="44" SignalName="8路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="43" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="45" SignalName="9路电压               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="44" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="46" SignalName="10路电压              " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="45" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="47" SignalName="11路电压              " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="46" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="48" SignalName="12路电压              " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="47" Expression="" DataType="0" ShowPrecision="0.00" Unit="v" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="49" SignalName="1路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="48" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="50" SignalName="2路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="49" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="51" SignalName="3路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="50" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="52" SignalName="4路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="51" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="53" SignalName="5路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="52" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="54" SignalName="6路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="53" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="55" SignalName="7路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="54" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="56" SignalName="8路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="55" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="57" SignalName="9路电流               " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="56" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="58" SignalName="10路电流              " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="57" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="59" SignalName="11路电流              " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="58" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="60" SignalName="12路电流              " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="59" Expression="" DataType="0" ShowPrecision="0.000" Unit="A" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="61" SignalName="1路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="60" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="62" SignalName="2路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="61" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="63" SignalName="3路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="62" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="64" SignalName="4路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="63" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="65" SignalName="5路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="64" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="66" SignalName="6路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="65" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="67" SignalName="7路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="66" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="68" SignalName="8路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="67" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="69" SignalName="9路有功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="68" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="70" SignalName="10路有功功率          " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="69" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="71" SignalName="11路有功功率          " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="70" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="72" SignalName="12路有功功率          " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="71" Expression="" DataType="0" ShowPrecision="0.000" Unit="kw" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="73" SignalName="1路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="72" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="74" SignalName="2路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="73" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="75" SignalName="3路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="74" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="76" SignalName="4路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="75" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="77" SignalName="5路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="76" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="78" SignalName="6路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="77" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="79" SignalName="7路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="78" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="80" SignalName="8路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="79" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="81" SignalName="9路无功功率           " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="80" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="82" SignalName="10路无功功率          " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="81" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="83" SignalName="11路无功功率          " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="82" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="84" SignalName="12路无功功率          " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="83" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvar" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="85" SignalName="1路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="84" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="86" SignalName="2路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="85" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="87" SignalName="3路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="86" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="88" SignalName="4路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="87" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="89" SignalName="5路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="88" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="90" SignalName="6路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="89" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="91" SignalName="7路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="90" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="92" SignalName="8路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="91" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="93" SignalName="9路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="92" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="94" SignalName="10路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="93" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="95" SignalName="11路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="94" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="96" SignalName="12路功率因数" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="95" Expression="" DataType="0" ShowPrecision="0.000" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="97" SignalName="1路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="96" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="98" SignalName="2路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="97" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="99" SignalName="3路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="98" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="100" SignalName="4路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="99" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="101" SignalName="5路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="100" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="102" SignalName="6路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="101" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="103" SignalName="7路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="102" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="104" SignalName="8路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="103" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="105" SignalName="9路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="104" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="106" SignalName="10路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="105" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="107" SignalName="11路频率" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="106" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="108" SignalName="12路频率 " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="107" Expression="" DataType="0" ShowPrecision="0.000" Unit="Hz" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="109" SignalName="1路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="108" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="110" SignalName="2路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="109" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="111" SignalName="3路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="110" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="112" SignalName="4路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="111" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="113" SignalName="5路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="112" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="114" SignalName="6路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="113" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="115" SignalName="7路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="114" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="116" SignalName="8路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="115" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="117" SignalName="9路组合无功1总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="116" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="118" SignalName="10路组合无功1总电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="117" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="119" SignalName="11路组合无功1总电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="118" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="120" SignalName="12路组合无功1总电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="119" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="121" SignalName="1路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="120" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="122" SignalName="2路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="121" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="123" SignalName="3路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="122" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="124" SignalName="4路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="123" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="125" SignalName="5路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="124" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="126" SignalName="6路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="125" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="127" SignalName="7路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="126" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="128" SignalName="8路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="127" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="129" SignalName="9路组合无功2总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="128" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="130" SignalName="10路组合无功2总电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="129" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="131" SignalName="11路组合无功2总电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="130" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="132" SignalName="12路组合无功2总电能   " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="131" Expression="" DataType="0" ShowPrecision="0.000" Unit="kvarh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="133" SignalName="1路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="132" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="134" SignalName="2路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="133" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="135" SignalName="3路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="134" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="136" SignalName="4路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="135" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="137" SignalName="5路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="136" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="138" SignalName="6路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="137" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="139" SignalName="7路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="138" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="140" SignalName="8路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="139" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="141" SignalName="9路正向视在总电能     " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="140" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="142" SignalName="10路正向视在总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="141" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="143" SignalName="11路正向视在总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="142" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="144" SignalName="12路正向视在总电能    " SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="143" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="145" SignalName="1路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="144" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="146" SignalName="2路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="145" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="147" SignalName="3路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="146" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="148" SignalName="4路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="147" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="149" SignalName="5路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="148" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="150" SignalName="6路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="149" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="151" SignalName="7路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="150" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="152" SignalName="8路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="151" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="153" SignalName="9路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="152" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="154" SignalName="10路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="153" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="155" SignalName="11路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="154" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="156" SignalName="12路反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="155" Expression="" DataType="0" ShowPrecision="0.000" Unit="KVAh" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="200" SignalName="总当前有功组合电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="-2" Expression="([-1,1]+[-1,2]+[-1,3]+[-1,4]+[-1,5]+[-1,6]+[-1,7]+[-1,8]+[-1,9]+[-1,10]+[-1,11]+[-1,12])" DataType="0" ShowPrecision="0.00" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="201" SignalName="总当前正向有功电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="-3" Expression="([-1,13]+[-1,14]+[-1,15]+[-1,16]+[-1,17]+[-1,18]+[-1,19]+[-1,20]+[-1,21]+[-1,22]+[-1,23]+[-1,24])" DataType="0" ShowPrecision="0.00" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="202" SignalName="总正向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="-4" Expression="([-1,133]+[-1,134]+[-1,135]+[-1,136]+[-1,137]+[-1,138]+[-1,139]+[-1,140]+[-1,141]+[-1,142]+[-1,143]+[-1,144])" DataType="0" ShowPrecision="0.00" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="203" SignalName="总反向视在总电能" SignalBaseId="-1" SignalType="0" SignalProperty="0" ChannelNo="-5" Expression="([-1,145]+[-1,146]+[-1,147]+[-1,148]+[-1,149]+[-1,150]+[-1,151]+[-1,152]+[-1,153]+[-1,154]+[-1,155]+[-1,156])" DataType="0" ShowPrecision="0.00" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings />
+            </EquipSignal>
+            <EquipSignal SignalId="10001" SignalName="设备通讯状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="-1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+                <Meanings>
+                    <SignalMeaning StateValue="1" Meaning="通讯正常" />
+                    <SignalMeaning StateValue="0" Meaning="通讯中断" />
+                </Meanings>
+            </EquipSignal>
+        </Signals>
+        <Events>
+            <EquipEvent EventId="1" EventName="1路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,37]" SuppressExpression="" Reversal="" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="2" EventName="2路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,38]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="3" EventName="3路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,39]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="4" EventName="4路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,40]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="5" EventName="5路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,41]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="6" EventName="6路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,42]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="7" EventName="7路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,43]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="8" EventName="8路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,44]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="9" EventName="9路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,45]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="10" EventName="10路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,46]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="11" EventName="11路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,47]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="12" EventName="12路断开告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,48]" SuppressExpression="" Reversal="" Enable="false" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="10" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+                </Conditions>
+            </EquipEvent>
+            <EquipEvent EventId="10001" EventName="设备通讯状态" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10001]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+                <Conditions>
+                    <EventCondition ConditionId="1" Meaning="通讯中断" EventSeverity="2" StartOperation="=" StartCompareValue="0" StartDelay="5" EndOperation="" EndCompareValue="" EndDelay="5" Frequency="0" FreqThreshold="0" />
+                </Conditions>
+            </EquipEvent>
+        </Events>
+        <Commands>
+            <EquipCommand CommandId="1" CommandName="test-设置第一路空调用电量" CommandBaseId="" CommandType="0" ControlType="0" RelatedSignalId="" CommandToken="100" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+                <CommandParameter ParameterId="1" ParameterName="设置信号值" UIControlType="0" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0" />
+            </EquipCommand>
+        </Commands>
+    </EquipTemplate>
+</EquipTemplateInfo>

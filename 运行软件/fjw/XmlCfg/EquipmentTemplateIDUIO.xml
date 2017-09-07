@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipTemplateInfo>
+  <EquipTemplate EquipTemplateId="173" EquipTemplateName="IDUIO" EquipTemplateType="45" EquipBaseTemplateId="1301" ParentTemplateId="-1" Property="0" LibName="VTUIO" TemplateCode="" TemplateLog="" Description="" LastUpdateTime="20131016044307">
+    <Signals>
+      <EquipSignal SignalId="1" SignalName="烟感状态" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="0" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="有告警" />
+          <SignalMeaning StateValue="1" Meaning="无告警" />
+          <SignalMeaning StateValue="-1" Meaning="" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="2" SignalName="DI2" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="打开" />
+          <SignalMeaning StateValue="1" Meaning="闭合" />
+          <SignalMeaning StateValue="-1" Meaning="" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="3" SignalName="DI3" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="2" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="打开" />
+          <SignalMeaning StateValue="1" Meaning="闭合" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="4" SignalName="DI4" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="3" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="打开" />
+          <SignalMeaning StateValue="1" Meaning="闭合" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="5" SignalName="DI5" SignalBaseId="-1" SignalType="1" SignalProperty="0" ChannelNo="4" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="有告警" />
+          <SignalMeaning StateValue="1" Meaning="正常" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="6" SignalName="DO1" SignalBaseId="100411002" SignalType="1" SignalProperty="0" ChannelNo="6" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="Off" />
+          <SignalMeaning StateValue="1" Meaning="On" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="7" SignalName="DO2" SignalBaseId="100411003" SignalType="1" SignalProperty="0" ChannelNo="7" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="0" Meaning="Off" />
+          <SignalMeaning StateValue="1" Meaning="On" />
+        </Meanings>
+      </EquipSignal>
+      <EquipSignal SignalId="10001" SignalName="设备通讯状态" SignalBaseId="100499901" SignalType="1" SignalProperty="0" ChannelNo="-1" Expression="" DataType="0" ShowPrecision="0" Unit="" StoreInterval="0" AbsValueThreshold="0" PercentThreshold="0" StatisticPeriod="0" Enable="true" Description="">
+        <Meanings>
+          <SignalMeaning StateValue="1" Meaning="通讯正常" />
+          <SignalMeaning StateValue="0" Meaning="通讯中断" />
+        </Meanings>
+      </EquipSignal>
+    </Signals>
+    <Events>
+	  <EquipEvent EventId="1" EventName="烟感告警" EventBaseId="" EventType="" RelatedSignalId="" StartExpression="[-1,1]" SuppressExpression="" Reversal="" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="有告警" EventSeverity="3" StartOperation="=" StartCompareValue="0" StartDelay="" EndOperation="" EndCompareValue="" EndDelay="" Frequency="" FreqThreshold="" />
+        </Conditions>
+      </EquipEvent>
+      <EquipEvent EventId="10001" EventName="设备通讯状态" EventBaseId="-1" EventType="0" RelatedSignalId="-1" StartExpression="[-1,10001]" SuppressExpression="" Reversal="0" Enable="true" Description="">
+        <Conditions>
+          <EventCondition ConditionId="1" Meaning="通讯中断" EventSeverity="3" StartOperation="=" StartCompareValue="0" StartDelay="5" EndOperation="" EndCompareValue="" EndDelay="5" Frequency="0" FreqThreshold="0" />
+        </Conditions>
+      </EquipEvent>
+    </Events>
+    <Commands>
+      <EquipCommand CommandId="1" CommandName="DO1" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="11" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="Status" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="1" Meaning="On" />
+          <CommandMeaning ParameterValue="0" Meaning="Off" />
+        </CommandParameter>
+      </EquipCommand>
+      <EquipCommand CommandId="2" CommandName="DO2" CommandBaseId="-1" CommandType="1" ControlType="0" RelatedSignalId="-1" CommandToken="12" Priority="0" Timeout="0" Retry="0" Enable="true" Description="">
+        <CommandParameter ParameterId="1" ParameterName="Status" UIControlType="1" DataType="0" DefaultValue="0" MaxValue="0" MinValue="0">
+          <CommandMeaning ParameterValue="0" Meaning="Off" />
+          <CommandMeaning ParameterValue="1" Meaning="On" />
+        </CommandParameter>
+      </EquipCommand>
+    </Commands>
+  </EquipTemplate>
+</EquipTemplateInfo>
