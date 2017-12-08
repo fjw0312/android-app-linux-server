@@ -1,0 +1,4 @@
+gcc -shared -fPIC  testServer.c commsock.c -I./ -I./include/ -o test.so
+
+-------------------------------------------------------------------------
+该小项目测试代码 由libhal_core 剥离出来的。
