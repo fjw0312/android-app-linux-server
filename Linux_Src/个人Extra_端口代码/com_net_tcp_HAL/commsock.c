@@ -190,7 +190,7 @@ int WaitFiledWritable(int fd, int nmsTimeOut/* milliseconds*/)
  *            OUT int   *piPort      : dev Port
  * RETURN   : static BOOL : TRUE for success, FALSE for error params
  * COMMENTS : 
- * CREATOR  : Frank Mao                DATE: 2004-09-11 19:47
+ * CREATOR  :                DATE: 2004-09-11 19:47
  *==========================================================================*/
 BOOL TCPIP_ParseOpenParams(IN char	*pOpenParams, 
 								  OUT DWORD *pdwIP, OUT int *piPort)
@@ -324,7 +324,7 @@ static int SetNonBlockSocket( SOCKET s, int nNonBlock )
  *            IN short  nServerPort  : port in host format
  * RETURN   : static SOCKET : The server socket, INVALID_SOCKET for error.
  * COMMENTS : 
- * CREATOR  : Frank Mao                DATE: 2004-09-13 19:52
+ * CREATOR  :                DATE: 2004-09-13 19:52
  *==========================================================================*/
 SOCKET CreateNetworkServer(IN int nWorkMode,
 								  IN DWORD dwServerAddr, IN short nServerPort )
@@ -426,7 +426,7 @@ SOCKET CreateNetworkServer(IN int nWorkMode,
  *            IN int    nTimeout     : time out in ms    //这里传入的是连接超时
  * RETURN   : SOCKET : INVALID_SOCKET(-1) for failure, others for successful
  * COMMENTS : 
- * CREATOR  : Frank Mao                DATE: 2004-09-13 20:36
+ * CREATOR  :                DATE: 2004-09-13 20:36
  *==========================================================================*/
 SOCKET ConnectNetworkServer(IN int nWorkMode, 
 					  IN DWORD dwServerAddr, IN short nServerPort,
